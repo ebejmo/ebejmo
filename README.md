@@ -1,6 +1,6 @@
 ### Hi there 👋, Emil Bejmo
 #### Design and Development
-![Design and Development](![Banner](path/to/your/banner.png))
+![Design and Development](https://media.licdn.com/dms/image/D4D16AQGRzatRNL44Qg/profile-displaybackgroundimage-shrink_350_1400/0/1684231731867?e=1689811200&v=beta&t=TeL6r7zhdrUGXH_9lbcewmAWTulzq68bgc12hAxoPoM)
 
 I'm Emil from Sweden, and I'm a front-end development student at Noroff - School of development and digital media. I really enjoy creating visually appealing and user-friendly websites. Working with CSS and UX/UI design brings me great joy and satisfaction.
 
