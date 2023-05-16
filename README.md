@@ -1,6 +1,6 @@
 ### Hi there 👋, Emil Bejmo
 #### Design and Development
-![Design and Development](https://https://github.com/ebejmo/ebejmo/blob/main/github-banner.png)
+![Design and Development] https://github.com/ebejmo/ebejmo/blob/main/github-banner.png
 
 I'm Emil from Sweden, and I'm a front-end development student at Noroff - School of development and digital media. I really enjoy creating visually appealing and user-friendly websites. Working with CSS and UX/UI design brings me great joy and satisfaction.
 
