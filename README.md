@@ -4,11 +4,12 @@
 
 I'm Emil from Sweden, and I'm a front-end development student at Noroff - School of development and digital media. I really enjoy creating visually appealing and user-friendly websites. Working with CSS and UX/UI design brings me great joy and satisfaction.
 
-At the moment I'm delving into the world of JavaScript to further expand my programming expertise. I believe that mastering JavaScript will empower me to build more dynamic and interactive web experiences.
-
-Outside of the tech world, I have another exciting facet of my life—I am a professional ice hockey player. Combining my love for sports and technology, I've learned valuable lessons in teamwork, perseverance, and discipline, which I carry with me into every aspect of my life.
-
 
 Skills: HTML / CSS / JS / UI / UX
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my portfolio. 
+- 🌱 I’m currently learning JavaScript to further expand my programming skills. 
+- ⚡ Fun fact: For the past 13 years I have worked as a professional ice hockey player. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ebejmo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emil-bejmo-032854148/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emilbejmo)  
