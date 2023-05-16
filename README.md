@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Emil Bejmo
+#### Design and Development
+![Design and Development](![Banner](path/to/your/banner.png))
 
-<!--
-**ebejmo/ebejmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emil from Sweden, and I'm a front-end development student at Noroff - School of development and digital media. I really enjoy creating visually appealing and user-friendly websites. Working with CSS and UX/UI design brings me great joy and satisfaction.
 
-Here are some ideas to get you started:
+At the moment I'm delving into the world of JavaScript to further expand my programming expertise. I believe that mastering JavaScript will empower me to build more dynamic and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of the tech world, I have another exciting facet of my life—I am a professional ice hockey player. Combining my love for sports and technology, I've learned valuable lessons in teamwork, perseverance, and discipline, which I carry with me into every aspect of my life.
+
+
+Skills: HTML / CSS / JS / UI / UX
+
+- 🔭 I’m currently working on this page. 
