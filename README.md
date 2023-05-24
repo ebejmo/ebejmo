@@ -13,11 +13,11 @@ I'm Emil from 🇸🇪, and I'm a front-end development student at Noroff - Scho
 * 🖥️ Adobe XD / Sketch for Prototypes
 
 ### Work 
-Rainydays project [GitHub Repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-ebejmo/blob/main/readme/README.md) [Live Site](https://ecstatic-swanson-bb49f2.netlify.app/index.html)
+[Rainydays project](https://ecstatic-swanson-bb49f2.netlify.app/index.html) [GitHub](https://github.com/Noroff-FEU-Assignments/cross-course-project-ebejmo)
 
-The Community Science Museum:
+[The Community Science Museum](https://starlit-khapse-46fd0f.netlify.app/) [GitHub](https://github.com/ebejmo/tcsm/tree/main)
 
-Three Put Blog:
+[Three Put Blog] (https://gilded-sable-60e683.netlify.app/) [GitHub](https://github.com/Noroff-FEU-Assignments/project-exam-1-ebejmo)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ebejmo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emil-bejmo-032854148/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emilbejmo)  
 
