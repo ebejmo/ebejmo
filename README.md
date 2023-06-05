@@ -5,7 +5,7 @@
 I'm Emil from 🇸🇪, and I'm a front-end development student at Noroff - School of development and digital media. I really enjoy creating visually appealing and user-friendly websites. Working with CSS and UX/UI design brings me great joy and satisfaction. I’m currently learning JavaScript to further expand my programming skills. 
 
 - 💼 I’m currently working on my portfolio 
-- 🏒 For the past 13 years I have worked as a professional ice hockey player 
+- 🏒 For the past 15 years I have worked as a professional ice hockey player 
 
 ## Skills and Experience
 * 💻 HTML / CSS / JS
