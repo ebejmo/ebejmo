@@ -2,7 +2,7 @@
 
 # Emil Bejmo 🏒➡️💻
 
-**Retired the slapshot, picked up semicolons** — ex-pro hockey player turned front-end student.
+**Retired the slapshot, picked up semicolons** - retired pro hockey player. Front-end dev student.
 
 ## What I’m up to  
 - 🚀 Trying to craft clean, responsive UIs with HTML, CSS & JavaScript  
