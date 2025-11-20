@@ -1,35 +1,55 @@
 ![Header](https://github.com/ebejmo/ebejmo/blob/main/github-header-banner.png)
 
-# Emil Bejmo 🏒➡️💻
+# Emil Bejmo 🏒→💻
+**Former pro hockey player learning to build fast, clean, and user-friendly web experiences**.
 
-**Retired the slapshot, picked up semicolons** - retired pro hockey player. Front-end dev student.
+## 👋 About Me  
+I spent 15 years playing professional hockey across Europe. These days I’m studying front-end development and slowly building up my skills, one project at a time.
 
-## What I’m up to  
-- 🚀 Trying to craft clean, responsive UIs with HTML, CSS & JavaScript  
-- ⚛️ Diving into React — slowly but enthusiastically
+- 🏫 Front-End Development student at Noroff  
+- ⚛️ Gradually leveling up in React: components, state management, and better structure  
+- 🚀 Enjoy creating fast, simple, user-friendly UI  
 
-## Skills & Gear  
-🧊 HTML · CSS · JS · React · Vite  
-🧊 Responsive design · Git · Netlify  
-🧊 Always working on the next small improvement
+---
 
-### Projects
+## 🧰 Tech & Tools  
 
-- **SlapShop**  
-  🔗 [Live](https://slapshop-ca.netlify.app/) · 💻 [GitHub](https://github.com/ebejmo/react-ca)
+HTML · CSS · JavaScript · React  
+SCSS · Bootstrap · Figma  
+Git · GitHub · Netlify  
 
-- **Auctionary**  
-  🔗 [Live](https://auctionaryproject.netlify.app/index.html) · 💻 [GitHub](https://github.com/ebejmo/auctionary)
+Improving every day.
 
-  
-#### Connect with Me
+---
 
-<p align="left">
-  <a href="https://github.com/ebejmo" target="_blank" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/emil-bejmo-032854148/" target="_blank" style="margin-left: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" />
-  </a>
+## 📦 Featured Projects  
+
+### 🛏️ Holidaze (Project Exam 2)  
+A venue booking platform built with React, featuring API integration, dynamic UI, custom modals, and full CRUD functionality.  
+🔗 **Live:** https://holidazeeb.netlify.app/  
+💻 **GitHub:** https://github.com/ebejmo/holidaze/tree/main 
+
+---
+
+### 🏒 SlapShop  
+A small eCommerce experience built with React & the Noroff API.  
+🔗 **Live:** https://slapshop-ca.netlify.app/  
+💻 **GitHub:** https://github.com/ebejmo/react-ca  
+
+---
+
+### 🔨 Auctionary  
+Simple auction site concept featuring listing creation, bidding, and dynamic UI.  
+🔗 **Live:** https://auctionaryproject.netlify.app/  
+💻 **GitHub:** https://github.com/ebejmo/auctionary 
+
+---
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/ebejmo">🐙 GitHub</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/emil-bejmo-032854148/">💼 LinkedIn</a>
 </p>
+
+---
 
