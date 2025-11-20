@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/ebejmo/ebejmo/blob/main/github-banner.png)
+![Header](https://github.com/ebejmo/ebejmo/blob/main/github-header-banner.png)
 
 # Emil Bejmo 🏒➡️💻
 
